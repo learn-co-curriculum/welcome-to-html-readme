@@ -4,10 +4,10 @@ Welcome to the HTML Basics unit!
 
 ## Preview
 
-In the next few lessons we'll be introducing you to HTML (or, **H**yper**t**ext
+In the next few lessons, we'll be introducing you to HTML (or, **H**yper**t**ext
 **M**arkup **L**anguage).
 
-HTML a _documentation-based_ technology. The word _documentation_ probably
+HTML is a _documentation-based_ technology. The word _documentation_ probably
 inspires a mental image of someone carrying heaps of papers, folders, files.
 But what is a _document_ in the digital realm?
 
@@ -19,8 +19,8 @@ We'll do a lab where you'll be guided in editing a simple HTML document.
 Don't try to memorize everything! We want to share the joy of being able to
 adjust HTML and see the result.
 
-We'll then learn a core set of HTML features that will enable you to create
-simple HTML documents with less-explicit guidance. Around this time you'll then
+After that, we'll learn a core set of HTML features that will enable you to create
+simple HTML documents with less-explicit guidance. Around this time, you'll then
 begin tying these discoveries together and will start generating your first
 HTML documents.
 

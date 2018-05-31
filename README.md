@@ -11,15 +11,13 @@ HTML a _documentation-based_ technology. The word _documentation_ probably
 inspires a mental image of someone carrying heaps of papers, folders, files.
 But what is a _document_ in the digital realm?
 
-We'll start our exploration of HTML by thinking about files and learning the
-vocabulary technologists use to discuss them in the process of creating HTML
-documents. This will assist your searches for help and your ability to interact
-with professionals on the topic.
+We'll start our exploration of HTML by thinking about files. Doing so will
+teach us essential HTML terms. Knowing these words helps us search better.  It
+also helps us talk to mentors the way they expect.
 
-We'll then proceed to a collaborative lab where you'll be guided in editing a
-simple HTML document. The point here is not to memorize the full detail of
-HTML's vocabulary, but to experience the joy and excitement of being able
-adjust and customize HTML.
+We'll do a lab where you'll be guided in editing a simple HTML document. 
+Don't try to memorize everything! We want to share the joy of being able to
+adjust HTML and see the result.
 
 We'll then learn a core set of HTML features that will enable you to create
 simple HTML documents with less-explicit guidance. Around this time you'll then
@@ -28,14 +26,12 @@ HTML documents.
 
 ## Repetition &amp; Getting Stuck
 
-In these lessons ahead many of the ideas are intentionally repeated or are
-occasions for synthesis of understanding or review. Maybe you don't get
-"attributes" the first time you see them, but, after some hands-on experience,
-it makes sense the second time you see it.
+In these lessons ahead some ideas are repeated. We're trying to make sure you
+get the hang of things.  If you don't get "attributes" the first time you see
+them maybe you will the second time.  Some hands-on experience may have changed
+your comfort!
 
 ## Beyond
 
-At the close of the unit you'll be ready to learn a series of HTML expressions
-that will allow you to create a substantial web page. You'll be ready to join
-the population of HTML authors who are learning new expressions, techniques,
-and ideas!
+By the end of the unit you'll be ready to create **big** web pages. You'll be a
+fresh member into the world of HTML authors!
